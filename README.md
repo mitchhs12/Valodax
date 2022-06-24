@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 📖 This year I have been building Web3 DApps, writing smart contracts and learning how to use Hardhat.
 
-📽️ Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies include reading, photography, video editing and learning Spanish.
+📽️ I also enjoy pushing myself to develop new skills. My hobbies include reading, photography, video editing and learning Spanish.
 
 🧭 I also love travelling. This year I have been to New Zealand, Spain, France and Peru.
