@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/Valodax/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Valodax/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
-**Valodax/Valodax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Valodax/Valodax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Nice.
 
 Here are some ideas to get you started:
 
